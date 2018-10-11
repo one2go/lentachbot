@@ -5,8 +5,8 @@
 // @description  try to take over the world!
 // @author       Flyink13, igoose
 // @match        https://pixel.vkforms.ru/*
-// @downloadURL  https://raw.githubusercontent.com/igoose1/pixelbot/master/PixelBot.user.js
-// @updateURL    https://raw.githubusercontent.com/igoose1/pixelbot/master/PixelBot.user.js
+// @downloadURL  https://raw.githubusercontent.com/one2go/lentachbot/master/lentachbot.js
+// @updateURL    https://raw.githubusercontent.com/one2go/lentachbot/master/lentachbot.js
 // @grant        none
 // ==/UserScript==
 
@@ -238,7 +238,7 @@ function PixelBot() {
         // PixelBot.loger.outerHTML = "";
         // clearInterval(PixelBot.wait);
         // var script = document.createElement('script');
-        // script.src = "https://raw.githubusercontent.com/igoose1/pixelbot/master/PixelBot.user.js";
+        // script.src = "https://raw.githubusercontent.com/one2go/lentachbot/master/lentachbot.js";
         // document.body.appendChild(script);
         // script.outerHTML = "";
         PixelBot.reloadImage();
