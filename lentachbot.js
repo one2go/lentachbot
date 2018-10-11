@@ -21,7 +21,7 @@ function PixelBot() {
     PixelBot.pts = 60;
     PixelBot.v = 3.0;
     PixelBot.tc = "rgb(0, 0, 0)";
-    PixelBot.src = "https://raw.githubusercontent.com/igoose1/pixelbot/master/li7.png";
+    PixelBot.src = "https://raw.githubusercontent.com/one2go/lentachbot/master/image.png";
 
     PixelBot.state = document.createElement("div");
     PixelBot.state.textContent = "Загрузка приложения...";
